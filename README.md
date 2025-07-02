@@ -1,6 +1,5 @@
 # RAG-With-Ollama
 Free &amp; open-source chatbot to summarize and query your PDFs, CSVs, DOCX, and TXT files locally using Ollama + RAG
-# 🧠 RAG Chatbot with Ollama
 
 Upload your PDF, DOCX, CSV, or TXT file and ask any question. This local, private chatbot uses Retrieval-Augmented Generation (RAG) to give factual answers and summarize your content — all offline.
 
