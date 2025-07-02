@@ -4,8 +4,6 @@ Free &amp; open-source chatbot to summarize and query your PDFs, CSVs, DOCX, and
 Upload your PDF, DOCX, CSV, or TXT file and ask any question. This local, private chatbot uses Retrieval-Augmented Generation (RAG) to give factual answers and summarize your content — all offline.
 
 
----
-
 ## 🔧 Features
 
 ✅ Upload PDFs, articles, notes, datasets  
@@ -16,16 +14,12 @@ Upload your PDF, DOCX, CSV, or TXT file and ask any question. This local, privat
 ✅ Clean software-engineering project layout  
 ✅ 100% free & open-source — works offline!
 
----
-
 ## 💡 Example Prompts
 
 - “Summarize this research paper”
 - “List all the genes mentioned”
 - “What pathways are enriched in this study?”
 - “Give the conclusion from this article”
-
----
 
 ## 🧪 Use Cases
 
@@ -34,7 +28,6 @@ Upload your PDF, DOCX, CSV, or TXT file and ask any question. This local, privat
 - 🏥 Offline clinical or HIPAA-safe document reader  
 - 🎓 Lecture notes or academic material assistant  
 
----
 
 ## ⚙️ Installation
 
