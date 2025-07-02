@@ -40,7 +40,7 @@ Upload your PDF, DOCX, CSV, or TXT file and ask any question. This local, privat
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/rag-chatbot-ollama
+git clone https://github.com/shari01/rag-chatbot-ollama
 cd rag-chatbot-ollama
 pip install -r requirements.txt
 ollama run llama3  # or mistral, gemma, etc.
